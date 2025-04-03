@@ -1,0 +1,2516 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/adaptly",
+          "urlHash": "0259b1daf9e7ac55511228ea025551e4de407a5f",
+          "uuid": "0259b1da-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/amplify-pre-roll",
+          "urlHash": "0e68abe26c479d81af03ae418344820ff152532f",
+          "uuid": "0e68abe2-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-creator",
+          "urlHash": "1119e3cdbc709438b8ee7d425700a7ec65df0ae5",
+          "uuid": "1119e3cd-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/amobee",
+          "urlHash": "168af8313417995e160bb3f76cd02cd183b16d01",
+          "uuid": "168af831-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/measurement",
+          "urlHash": "20729bcee31f621288c65f1aa492dd4d9bc1b808",
+          "uuid": "20729bce-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/wiseblue",
+          "urlHash": "3780e69aa957f809f1c055a1320875501aca6a3a",
+          "uuid": "3780e69a-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/analytics",
+          "urlHash": "3ac800d770a87b5e3a69ed751730e0d1b2287b93",
+          "uuid": "3ac800d7-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/engagements",
+          "urlHash": "4551c396c4f850838a52269f8cfd63eb41d40b60",
+          "uuid": "4551c396-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en",
+          "urlHash": "4dc7c15e0b8feb63b4b5729463fbddaf78f72be7",
+          "uuid": "4dc7c15e-00-04eda277850add63ffcfd5d8b49fd259669239fc",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]/header[1]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner",
+          "urlHash": "545dc26c9d657c1ef2a6a3dbfe098e753354241e",
+          "uuid": "545dc26c-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/app-installs",
+          "urlHash": "547dae3db227b599e4e7ace70c566240d01167f9",
+          "uuid": "547dae3d-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/carousels",
+          "urlHash": "58eef99cbd58f6bfbc5d857e2ed0fbc8153b48b1",
+          "uuid": "58eef99c-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/reach",
+          "urlHash": "6e9bbd15383a9b7d51e7d7b0c621b5b973e605fd",
+          "uuid": "6e9bbd15-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/targeting",
+          "urlHash": "790aee4fe4326889819e13f8e80d35510af7bc3d",
+          "uuid": "790aee4f-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types",
+          "urlHash": "8ac5be202abe4e0a3cef22f05af9cd147aa8df02",
+          "uuid": "8ac5be20-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/tweet-composer",
+          "urlHash": "96ab8e4049f8c32d5c057397eb833d641b076aa2",
+          "uuid": "96ab8e40-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/video-views",
+          "urlHash": "a4719998d6ee114b7f8d2915126d753febd15fbc",
+          "uuid": "a4719998-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/ads-best-practices",
+          "urlHash": "ab6f12dc9a89e9e225fb1369a0638b510482114a",
+          "uuid": "ab6f12dc-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/branded-notifications",
+          "urlHash": "ad7e4babdb2af12ad5e13e6f88d66f104960d5f7",
+          "uuid": "ad7e4bab-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising",
+          "urlHash": "ae0526ea7b15a248728019520d069ef9bb21042a",
+          "uuid": "ae0526ea-00-04eda277850add63ffcfd5d8b49fd259669239fc",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]/header[1]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-traffic",
+          "urlHash": "b122711a9f7a3890c8fd6771421fb31fac813d0a",
+          "uuid": "b122711a-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/formats",
+          "urlHash": "c17a0205ad86fae4f5bb316fe232ac1229510622",
+          "uuid": "c17a0205-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/app-reengagements",
+          "urlHash": "c8d58b251bf14f09be7c306d54832ae669a0e089",
+          "uuid": "c8d58b25-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-conversions",
+          "urlHash": "d2d941a76d8ab884de55b54ee5f24ef2a25bd89e",
+          "uuid": "d2d941a7-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising?ref=en-btc-help-troubleshooting-how-it-works-footer",
+          "urlHash": "d45416d928a70e28009854ecca52a76613596765",
+          "uuid": "d45416d9-00-04eda277850add63ffcfd5d8b49fd259669239fc",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]/header[1]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/get-started-with-twitter-ads",
+          "urlHash": "e6f03a6c9def0580704294851f8bfe2ec9cfdfc5",
+          "uuid": "e6f03a6c-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/social-database",
+          "urlHash": "f816ee0360c9a435ed4bea77b99e20d444ba0f44",
+          "uuid": "f816ee03-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/adaptly",
+          "urlHash": "0259b1daf9e7ac55511228ea025551e4de407a5f",
+          "uuid": "0259b1da-06-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/amplify-pre-roll",
+          "urlHash": "0e68abe26c479d81af03ae418344820ff152532f",
+          "uuid": "0e68abe2-09-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-creator",
+          "urlHash": "1119e3cdbc709438b8ee7d425700a7ec65df0ae5",
+          "uuid": "1119e3cd-22-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/amobee",
+          "urlHash": "168af8313417995e160bb3f76cd02cd183b16d01",
+          "uuid": "168af831-06-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/measurement",
+          "urlHash": "20729bcee31f621288c65f1aa492dd4d9bc1b808",
+          "uuid": "20729bce-10-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/wiseblue",
+          "urlHash": "3780e69aa957f809f1c055a1320875501aca6a3a",
+          "uuid": "3780e69a-08-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/analytics",
+          "urlHash": "3ac800d770a87b5e3a69ed751730e0d1b2287b93",
+          "uuid": "3ac800d7-13-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/engagements",
+          "urlHash": "4551c396c4f850838a52269f8cfd63eb41d40b60",
+          "uuid": "4551c396-14-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en",
+          "urlHash": "4dc7c15e0b8feb63b4b5729463fbddaf78f72be7",
+          "uuid": "4dc7c15e-02-5217d198440712192f7c03f84d6a8fbc883ffcc5",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner",
+          "urlHash": "545dc26c9d657c1ef2a6a3dbfe098e753354241e",
+          "uuid": "545dc26c-08-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/app-installs",
+          "urlHash": "547dae3db227b599e4e7ace70c566240d01167f9",
+          "uuid": "547dae3d-17-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/carousels",
+          "urlHash": "58eef99cbd58f6bfbc5d857e2ed0fbc8153b48b1",
+          "uuid": "58eef99c-09-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/reach",
+          "urlHash": "6e9bbd15383a9b7d51e7d7b0c621b5b973e605fd",
+          "uuid": "6e9bbd15-13-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/targeting",
+          "urlHash": "790aee4fe4326889819e13f8e80d35510af7bc3d",
+          "uuid": "790aee4f-15-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types",
+          "urlHash": "8ac5be202abe4e0a3cef22f05af9cd147aa8df02",
+          "uuid": "8ac5be20-11-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/tweet-composer",
+          "urlHash": "96ab8e4049f8c32d5c057397eb833d641b076aa2",
+          "uuid": "96ab8e40-23-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/video-views",
+          "urlHash": "a4719998d6ee114b7f8d2915126d753febd15fbc",
+          "uuid": "a4719998-13-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/ads-best-practices",
+          "urlHash": "ab6f12dc9a89e9e225fb1369a0638b510482114a",
+          "uuid": "ab6f12dc-07-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/branded-notifications",
+          "urlHash": "ad7e4babdb2af12ad5e13e6f88d66f104960d5f7",
+          "uuid": "ad7e4bab-13-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising",
+          "urlHash": "ae0526ea7b15a248728019520d069ef9bb21042a",
+          "uuid": "ae0526ea-02-5217d198440712192f7c03f84d6a8fbc883ffcc5",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-traffic",
+          "urlHash": "b122711a9f7a3890c8fd6771421fb31fac813d0a",
+          "uuid": "b122711a-18-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/formats",
+          "urlHash": "c17a0205ad86fae4f5bb316fe232ac1229510622",
+          "uuid": "c17a0205-09-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/app-reengagements",
+          "urlHash": "c8d58b251bf14f09be7c306d54832ae669a0e089",
+          "uuid": "c8d58b25-14-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-conversions",
+          "urlHash": "d2d941a76d8ab884de55b54ee5f24ef2a25bd89e",
+          "uuid": "d2d941a7-16-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising?ref=en-btc-help-troubleshooting-how-it-works-footer",
+          "urlHash": "d45416d928a70e28009854ecca52a76613596765",
+          "uuid": "d45416d9-02-5217d198440712192f7c03f84d6a8fbc883ffcc5",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/get-started-with-twitter-ads",
+          "urlHash": "e6f03a6c9def0580704294851f8bfe2ec9cfdfc5",
+          "uuid": "e6f03a6c-07-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/social-database",
+          "urlHash": "f816ee0360c9a435ed4bea77b99e20d444ba0f44",
+          "uuid": "f816ee03-05-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "name": "unknown",
+      "cluster": 1,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/carousels",
+          "urlHash": "58eef99cbd58f6bfbc5d857e2ed0fbc8153b48b1",
+          "uuid": "58eef99c-06-03ac9e6f006d5714c6a465d9da2caa7119a4d70b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/branded-notifications",
+          "urlHash": "ad7e4babdb2af12ad5e13e6f88d66f104960d5f7",
+          "uuid": "ad7e4bab-08-71d116fe18b017a7ff00f3f6a42c592658d5dd44",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/branded-notifications",
+          "urlHash": "ad7e4babdb2af12ad5e13e6f88d66f104960d5f7",
+          "uuid": "ad7e4bab-09-03ac9e6f006d5714c6a465d9da2caa7119a4d70b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/get-started-with-twitter-ads",
+          "urlHash": "e6f03a6c9def0580704294851f8bfe2ec9cfdfc5",
+          "uuid": "e6f03a6c-03-d5fc3d9486bbf512afdb4d6200259f86942c1a70",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/get-started-with-twitter-ads",
+          "urlHash": "e6f03a6c9def0580704294851f8bfe2ec9cfdfc5",
+          "uuid": "e6f03a6c-04-31a136b00ee4d368075f69906d1d33fc1ab5c432",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 2,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/adaptly",
+          "urlHash": "0259b1daf9e7ac55511228ea025551e4de407a5f",
+          "uuid": "0259b1da-04-71d116fe18b017a7ff00f3f6a42c592658d5dd44",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/amobee",
+          "urlHash": "168af8313417995e160bb3f76cd02cd183b16d01",
+          "uuid": "168af831-04-71d116fe18b017a7ff00f3f6a42c592658d5dd44",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/measurement",
+          "urlHash": "20729bcee31f621288c65f1aa492dd4d9bc1b808",
+          "uuid": "20729bce-04-31a136b00ee4d368075f69906d1d33fc1ab5c432",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/measurement",
+          "urlHash": "20729bcee31f621288c65f1aa492dd4d9bc1b808",
+          "uuid": "20729bce-05-71d116fe18b017a7ff00f3f6a42c592658d5dd44",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/measurement",
+          "urlHash": "20729bcee31f621288c65f1aa492dd4d9bc1b808",
+          "uuid": "20729bce-06-03ac9e6f006d5714c6a465d9da2caa7119a4d70b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/measurement",
+          "urlHash": "20729bcee31f621288c65f1aa492dd4d9bc1b808",
+          "uuid": "20729bce-07-25e9910beb5b9546c70f945544f8e1f90e53689f",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[7]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-conversions",
+          "urlHash": "d2d941a76d8ab884de55b54ee5f24ef2a25bd89e",
+          "uuid": "d2d941a7-05-71d116fe18b017a7ff00f3f6a42c592658d5dd44",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 3,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/campaign-creator",
+          "urlHash": "1119e3cdbc709438b8ee7d425700a7ec65df0ae5",
+          "uuid": "1119e3cd-08-54b95c8d89dcf8bdf6e7fbda13622e0830cc767b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/branded-notifications",
+          "urlHash": "ad7e4babdb2af12ad5e13e6f88d66f104960d5f7",
+          "uuid": "ad7e4bab-05-097ebcc151df3807117faaaf900e1bf4384dd4f3",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 4,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/adaptly",
+          "urlHash": "0259b1daf9e7ac55511228ea025551e4de407a5f",
+          "uuid": "0259b1da-05-03ac9e6f006d5714c6a465d9da2caa7119a4d70b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/amplify-pre-roll",
+          "urlHash": "0e68abe26c479d81af03ae418344820ff152532f",
+          "uuid": "0e68abe2-06-03ac9e6f006d5714c6a465d9da2caa7119a4d70b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/amobee",
+          "urlHash": "168af8313417995e160bb3f76cd02cd183b16d01",
+          "uuid": "168af831-05-03ac9e6f006d5714c6a465d9da2caa7119a4d70b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/wiseblue",
+          "urlHash": "3780e69aa957f809f1c055a1320875501aca6a3a",
+          "uuid": "3780e69a-07-25e9910beb5b9546c70f945544f8e1f90e53689f",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[7]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/engagements",
+          "urlHash": "4551c396c4f850838a52269f8cfd63eb41d40b60",
+          "uuid": "4551c396-11-25e9910beb5b9546c70f945544f8e1f90e53689f",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[7]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/app-installs",
+          "urlHash": "547dae3db227b599e4e7ace70c566240d01167f9",
+          "uuid": "547dae3d-14-afc1f0cd23624b0073eead0d2f095ed3b9c10f44",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[10]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/carousels",
+          "urlHash": "58eef99cbd58f6bfbc5d857e2ed0fbc8153b48b1",
+          "uuid": "58eef99c-03-d5fc3d9486bbf512afdb4d6200259f86942c1a70",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/reach",
+          "urlHash": "6e9bbd15383a9b7d51e7d7b0c621b5b973e605fd",
+          "uuid": "6e9bbd15-10-25e9910beb5b9546c70f945544f8e1f90e53689f",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[7]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/video-views",
+          "urlHash": "a4719998d6ee114b7f8d2915126d753febd15fbc",
+          "uuid": "a4719998-10-25e9910beb5b9546c70f945544f8e1f90e53689f",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[7]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-traffic",
+          "urlHash": "b122711a9f7a3890c8fd6771421fb31fac813d0a",
+          "uuid": "b122711a-15-17a8b296d154786c4989531e8167a6261ba00516",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[9]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/formats",
+          "urlHash": "c17a0205ad86fae4f5bb316fe232ac1229510622",
+          "uuid": "c17a0205-08-25e9910beb5b9546c70f945544f8e1f90e53689f",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[7]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/app-reengagements",
+          "urlHash": "c8d58b251bf14f09be7c306d54832ae669a0e089",
+          "uuid": "c8d58b25-11-17a8b296d154786c4989531e8167a6261ba00516",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[9]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-conversions",
+          "urlHash": "d2d941a76d8ab884de55b54ee5f24ef2a25bd89e",
+          "uuid": "d2d941a7-13-afc1f0cd23624b0073eead0d2f095ed3b9c10f44",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[10]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/get-started-with-twitter-ads",
+          "urlHash": "e6f03a6c9def0580704294851f8bfe2ec9cfdfc5",
+          "uuid": "e6f03a6c-02-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/social-database",
+          "urlHash": "f816ee0360c9a435ed4bea77b99e20d444ba0f44",
+          "uuid": "f816ee03-04-71d116fe18b017a7ff00f3f6a42c592658d5dd44",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 5,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types",
+          "urlHash": "8ac5be202abe4e0a3cef22f05af9cd147aa8df02",
+          "uuid": "8ac5be20-10-71d116fe18b017a7ff00f3f6a42c592658d5dd44",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-traffic",
+          "urlHash": "b122711a9f7a3890c8fd6771421fb31fac813d0a",
+          "uuid": "b122711a-02-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-conversions",
+          "urlHash": "d2d941a76d8ab884de55b54ee5f24ef2a25bd89e",
+          "uuid": "d2d941a7-02-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 6,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/amplify-pre-roll",
+          "urlHash": "0e68abe26c479d81af03ae418344820ff152532f",
+          "uuid": "0e68abe2-04-31a136b00ee4d368075f69906d1d33fc1ab5c432",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/engagements",
+          "urlHash": "4551c396c4f850838a52269f8cfd63eb41d40b60",
+          "uuid": "4551c396-04-31a136b00ee4d368075f69906d1d33fc1ab5c432",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/app-installs",
+          "urlHash": "547dae3db227b599e4e7ace70c566240d01167f9",
+          "uuid": "547dae3d-08-03ac9e6f006d5714c6a465d9da2caa7119a4d70b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/reach",
+          "urlHash": "6e9bbd15383a9b7d51e7d7b0c621b5b973e605fd",
+          "uuid": "6e9bbd15-04-31a136b00ee4d368075f69906d1d33fc1ab5c432",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/video-views",
+          "urlHash": "a4719998d6ee114b7f8d2915126d753febd15fbc",
+          "uuid": "a4719998-04-31a136b00ee4d368075f69906d1d33fc1ab5c432",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-traffic",
+          "urlHash": "b122711a9f7a3890c8fd6771421fb31fac813d0a",
+          "uuid": "b122711a-08-03ac9e6f006d5714c6a465d9da2caa7119a4d70b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/app-reengagements",
+          "urlHash": "c8d58b251bf14f09be7c306d54832ae669a0e089",
+          "uuid": "c8d58b25-06-71d116fe18b017a7ff00f3f6a42c592658d5dd44",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-conversions",
+          "urlHash": "d2d941a76d8ab884de55b54ee5f24ef2a25bd89e",
+          "uuid": "d2d941a7-08-c45ddf348125a15cc3c8f4edef4f122144ee7b46",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 7,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/campaign-creator",
+          "urlHash": "1119e3cdbc709438b8ee7d425700a7ec65df0ae5",
+          "uuid": "1119e3cd-07-82de2d008a595688e4b740fcb67edc62c4aad9c4",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-creator",
+          "urlHash": "1119e3cdbc709438b8ee7d425700a7ec65df0ae5",
+          "uuid": "1119e3cd-09-4837956c5db30eb5bddba9d0e63f5917b136f513",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/analytics",
+          "urlHash": "3ac800d770a87b5e3a69ed751730e0d1b2287b93",
+          "uuid": "3ac800d7-05-097ebcc151df3807117faaaf900e1bf4384dd4f3",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/analytics",
+          "urlHash": "3ac800d770a87b5e3a69ed751730e0d1b2287b93",
+          "uuid": "3ac800d7-06-db9f33091696fa7c9170a75ccb98353e9072e80b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/analytics",
+          "urlHash": "3ac800d770a87b5e3a69ed751730e0d1b2287b93",
+          "uuid": "3ac800d7-07-82de2d008a595688e4b740fcb67edc62c4aad9c4",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/analytics",
+          "urlHash": "3ac800d770a87b5e3a69ed751730e0d1b2287b93",
+          "uuid": "3ac800d7-09-1cf970354f769aca88d507d68dfdf033cff70d79",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/analytics",
+          "urlHash": "3ac800d770a87b5e3a69ed751730e0d1b2287b93",
+          "uuid": "3ac800d7-11-614e309d5210c4f7b8f46527cd65c7258240533c",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/tweet-composer",
+          "urlHash": "96ab8e4049f8c32d5c057397eb833d641b076aa2",
+          "uuid": "96ab8e40-05-097ebcc151df3807117faaaf900e1bf4384dd4f3",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/app-reengagements",
+          "urlHash": "c8d58b251bf14f09be7c306d54832ae669a0e089",
+          "uuid": "c8d58b25-04-9dc371b0317b7e5707633052793d80a7181c2420",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-conversions",
+          "urlHash": "d2d941a76d8ab884de55b54ee5f24ef2a25bd89e",
+          "uuid": "d2d941a7-04-097ebcc151df3807117faaaf900e1bf4384dd4f3",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 8,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/engagements",
+          "urlHash": "4551c396c4f850838a52269f8cfd63eb41d40b60",
+          "uuid": "4551c396-06-1cf970354f769aca88d507d68dfdf033cff70d79",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/app-installs",
+          "urlHash": "547dae3db227b599e4e7ace70c566240d01167f9",
+          "uuid": "547dae3d-10-0eb9652e301e950f5336129acd6f83036978cf14",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/reach",
+          "urlHash": "6e9bbd15383a9b7d51e7d7b0c621b5b973e605fd",
+          "uuid": "6e9bbd15-06-1cf970354f769aca88d507d68dfdf033cff70d79",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-traffic",
+          "urlHash": "b122711a9f7a3890c8fd6771421fb31fac813d0a",
+          "uuid": "b122711a-10-0eb9652e301e950f5336129acd6f83036978cf14",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/app-reengagements",
+          "urlHash": "c8d58b251bf14f09be7c306d54832ae669a0e089",
+          "uuid": "c8d58b25-08-614e309d5210c4f7b8f46527cd65c7258240533c",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 9,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/campaign-creator",
+          "urlHash": "1119e3cdbc709438b8ee7d425700a7ec65df0ae5",
+          "uuid": "1119e3cd-02-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/measurement",
+          "urlHash": "20729bcee31f621288c65f1aa492dd4d9bc1b808",
+          "uuid": "20729bce-02-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/analytics",
+          "urlHash": "3ac800d770a87b5e3a69ed751730e0d1b2287b93",
+          "uuid": "3ac800d7-02-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/targeting",
+          "urlHash": "790aee4fe4326889819e13f8e80d35510af7bc3d",
+          "uuid": "790aee4f-02-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/tweet-composer",
+          "urlHash": "96ab8e4049f8c32d5c057397eb833d641b076aa2",
+          "uuid": "96ab8e40-02-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 10,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/campaign-creator",
+          "urlHash": "1119e3cdbc709438b8ee7d425700a7ec65df0ae5",
+          "uuid": "1119e3cd-05-097ebcc151df3807117faaaf900e1bf4384dd4f3",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-creator",
+          "urlHash": "1119e3cdbc709438b8ee7d425700a7ec65df0ae5",
+          "uuid": "1119e3cd-06-db9f33091696fa7c9170a75ccb98353e9072e80b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-creator",
+          "urlHash": "1119e3cdbc709438b8ee7d425700a7ec65df0ae5",
+          "uuid": "1119e3cd-17-333103876351c99704de9a89a09a5c86cb26ad0d",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[14]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/tweet-composer",
+          "urlHash": "96ab8e4049f8c32d5c057397eb833d641b076aa2",
+          "uuid": "96ab8e40-11-4eeca0144f70f4b12a70f3ce78d698bf8a833958",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/tweet-composer",
+          "urlHash": "96ab8e4049f8c32d5c057397eb833d641b076aa2",
+          "uuid": "96ab8e40-12-987a8218e43d56136f271389dfcdc0581bb4efb0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/tweet-composer",
+          "urlHash": "96ab8e4049f8c32d5c057397eb833d641b076aa2",
+          "uuid": "96ab8e40-13-bf8a42ae1934c888d34da925cacb85e480ad1a56",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/tweet-composer",
+          "urlHash": "96ab8e4049f8c32d5c057397eb833d641b076aa2",
+          "uuid": "96ab8e40-14-b0b97f7a8604e290ffa82c659562c3c3e1a1f7bd",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[9]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/tweet-composer",
+          "urlHash": "96ab8e4049f8c32d5c057397eb833d641b076aa2",
+          "uuid": "96ab8e40-15-3bf80773ed9843b7eff1bf86e70ebfa872638b91",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[11]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/tweet-composer",
+          "urlHash": "96ab8e4049f8c32d5c057397eb833d641b076aa2",
+          "uuid": "96ab8e40-18-c45ddf348125a15cc3c8f4edef4f122144ee7b46",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/tweet-composer",
+          "urlHash": "96ab8e4049f8c32d5c057397eb833d641b076aa2",
+          "uuid": "96ab8e40-19-4b3964a779b21b2f288a0ba88b90360583cb6a4e",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/branded-notifications",
+          "urlHash": "ad7e4babdb2af12ad5e13e6f88d66f104960d5f7",
+          "uuid": "ad7e4bab-06-db9f33091696fa7c9170a75ccb98353e9072e80b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 11,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/adaptly",
+          "urlHash": "0259b1daf9e7ac55511228ea025551e4de407a5f",
+          "uuid": "0259b1da-06-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/amplify-pre-roll",
+          "urlHash": "0e68abe26c479d81af03ae418344820ff152532f",
+          "uuid": "0e68abe2-09-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-creator",
+          "urlHash": "1119e3cdbc709438b8ee7d425700a7ec65df0ae5",
+          "uuid": "1119e3cd-22-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/amobee",
+          "urlHash": "168af8313417995e160bb3f76cd02cd183b16d01",
+          "uuid": "168af831-06-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/measurement",
+          "urlHash": "20729bcee31f621288c65f1aa492dd4d9bc1b808",
+          "uuid": "20729bce-10-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/wiseblue",
+          "urlHash": "3780e69aa957f809f1c055a1320875501aca6a3a",
+          "uuid": "3780e69a-08-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/analytics",
+          "urlHash": "3ac800d770a87b5e3a69ed751730e0d1b2287b93",
+          "uuid": "3ac800d7-13-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/engagements",
+          "urlHash": "4551c396c4f850838a52269f8cfd63eb41d40b60",
+          "uuid": "4551c396-14-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner",
+          "urlHash": "545dc26c9d657c1ef2a6a3dbfe098e753354241e",
+          "uuid": "545dc26c-08-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/app-installs",
+          "urlHash": "547dae3db227b599e4e7ace70c566240d01167f9",
+          "uuid": "547dae3d-17-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/carousels",
+          "urlHash": "58eef99cbd58f6bfbc5d857e2ed0fbc8153b48b1",
+          "uuid": "58eef99c-09-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/reach",
+          "urlHash": "6e9bbd15383a9b7d51e7d7b0c621b5b973e605fd",
+          "uuid": "6e9bbd15-13-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/targeting",
+          "urlHash": "790aee4fe4326889819e13f8e80d35510af7bc3d",
+          "uuid": "790aee4f-15-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types",
+          "urlHash": "8ac5be202abe4e0a3cef22f05af9cd147aa8df02",
+          "uuid": "8ac5be20-11-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/tweet-composer",
+          "urlHash": "96ab8e4049f8c32d5c057397eb833d641b076aa2",
+          "uuid": "96ab8e40-23-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/video-views",
+          "urlHash": "a4719998d6ee114b7f8d2915126d753febd15fbc",
+          "uuid": "a4719998-13-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/ads-best-practices",
+          "urlHash": "ab6f12dc9a89e9e225fb1369a0638b510482114a",
+          "uuid": "ab6f12dc-07-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/branded-notifications",
+          "urlHash": "ad7e4babdb2af12ad5e13e6f88d66f104960d5f7",
+          "uuid": "ad7e4bab-13-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-traffic",
+          "urlHash": "b122711a9f7a3890c8fd6771421fb31fac813d0a",
+          "uuid": "b122711a-18-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/formats",
+          "urlHash": "c17a0205ad86fae4f5bb316fe232ac1229510622",
+          "uuid": "c17a0205-09-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/app-reengagements",
+          "urlHash": "c8d58b251bf14f09be7c306d54832ae669a0e089",
+          "uuid": "c8d58b25-14-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-conversions",
+          "urlHash": "d2d941a76d8ab884de55b54ee5f24ef2a25bd89e",
+          "uuid": "d2d941a7-16-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/get-started-with-twitter-ads",
+          "urlHash": "e6f03a6c9def0580704294851f8bfe2ec9cfdfc5",
+          "uuid": "e6f03a6c-07-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/social-database",
+          "urlHash": "f816ee0360c9a435ed4bea77b99e20d444ba0f44",
+          "uuid": "f816ee03-05-4eabbda5311e71fa12ce80cd0e2687c8b4743c67",
+          "xpath": "/html[1]/body[1]/div[1]/div[6]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 12,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/amplify-pre-roll",
+          "urlHash": "0e68abe26c479d81af03ae418344820ff152532f",
+          "uuid": "0e68abe2-02-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/measurement",
+          "urlHash": "20729bcee31f621288c65f1aa492dd4d9bc1b808",
+          "uuid": "20729bce-08-6dd1effeee3e10f541262b4e17ab83cd3e19ec7a",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[8]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/engagements",
+          "urlHash": "4551c396c4f850838a52269f8cfd63eb41d40b60",
+          "uuid": "4551c396-02-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner",
+          "urlHash": "545dc26c9d657c1ef2a6a3dbfe098e753354241e",
+          "uuid": "545dc26c-07-31a136b00ee4d368075f69906d1d33fc1ab5c432",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/app-installs",
+          "urlHash": "547dae3db227b599e4e7ace70c566240d01167f9",
+          "uuid": "547dae3d-02-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/carousels",
+          "urlHash": "58eef99cbd58f6bfbc5d857e2ed0fbc8153b48b1",
+          "uuid": "58eef99c-02-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/reach",
+          "urlHash": "6e9bbd15383a9b7d51e7d7b0c621b5b973e605fd",
+          "uuid": "6e9bbd15-02-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/video-views",
+          "urlHash": "a4719998d6ee114b7f8d2915126d753febd15fbc",
+          "uuid": "a4719998-02-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/ads-best-practices",
+          "urlHash": "ab6f12dc9a89e9e225fb1369a0638b510482114a",
+          "uuid": "ab6f12dc-02-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/branded-notifications",
+          "urlHash": "ad7e4babdb2af12ad5e13e6f88d66f104960d5f7",
+          "uuid": "ad7e4bab-02-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/formats",
+          "urlHash": "c17a0205ad86fae4f5bb316fe232ac1229510622",
+          "uuid": "c17a0205-02-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/app-reengagements",
+          "urlHash": "c8d58b251bf14f09be7c306d54832ae669a0e089",
+          "uuid": "c8d58b25-02-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/get-started-with-twitter-ads",
+          "urlHash": "e6f03a6c9def0580704294851f8bfe2ec9cfdfc5",
+          "uuid": "e6f03a6c-01-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/get-started-with-twitter-ads",
+          "urlHash": "e6f03a6c9def0580704294851f8bfe2ec9cfdfc5",
+          "uuid": "e6f03a6c-06-03ac9e6f006d5714c6a465d9da2caa7119a4d70b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 13,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-traffic",
+          "urlHash": "b122711a9f7a3890c8fd6771421fb31fac813d0a",
+          "uuid": "b122711a-04-70f8a6035412a4653b4d9011e130c3d6d2bc36fa",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-traffic",
+          "urlHash": "b122711a9f7a3890c8fd6771421fb31fac813d0a",
+          "uuid": "b122711a-05-b74ec2fa8523b39638c199a8f5b7b142aae7fe80",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 14,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/app-installs",
+          "urlHash": "547dae3db227b599e4e7ace70c566240d01167f9",
+          "uuid": "547dae3d-05-ff9844dda1f68959663b620d4c9b33b8ff3cb200",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-traffic",
+          "urlHash": "b122711a9f7a3890c8fd6771421fb31fac813d0a",
+          "uuid": "b122711a-03-31b131d27cb1d2c8613f9708099dd6b79c1cc2a8",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-traffic",
+          "urlHash": "b122711a9f7a3890c8fd6771421fb31fac813d0a",
+          "uuid": "b122711a-09-0e7e174245c1006e0610ebb1ca28ea90384c749e",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-traffic",
+          "urlHash": "b122711a9f7a3890c8fd6771421fb31fac813d0a",
+          "uuid": "b122711a-16-83cd820f1b98b5019d4616c916691680861055e7",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[10]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-conversions",
+          "urlHash": "d2d941a76d8ab884de55b54ee5f24ef2a25bd89e",
+          "uuid": "d2d941a7-14-d0d8f8fbdb1fe4716b337a51300ca70f91b97754",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[11]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 15,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/amplify-pre-roll",
+          "urlHash": "0e68abe26c479d81af03ae418344820ff152532f",
+          "uuid": "0e68abe2-08-0eb9652e301e950f5336129acd6f83036978cf14",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-creator",
+          "urlHash": "1119e3cdbc709438b8ee7d425700a7ec65df0ae5",
+          "uuid": "1119e3cd-20-1cf970354f769aca88d507d68dfdf033cff70d79",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/engagements",
+          "urlHash": "4551c396c4f850838a52269f8cfd63eb41d40b60",
+          "uuid": "4551c396-07-70f8a6035412a4653b4d9011e130c3d6d2bc36fa",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/engagements",
+          "urlHash": "4551c396c4f850838a52269f8cfd63eb41d40b60",
+          "uuid": "4551c396-13-109386bed8c15775478c49329ec422a4d6b0884f",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/app-installs",
+          "urlHash": "547dae3db227b599e4e7ace70c566240d01167f9",
+          "uuid": "547dae3d-11-91ac168025ffbcc31ba1b4ea30488eee5036156d",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/app-installs",
+          "urlHash": "547dae3db227b599e4e7ace70c566240d01167f9",
+          "uuid": "547dae3d-16-51891273316f67f046836a8c9af7886031158c5d",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[11]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/reach",
+          "urlHash": "6e9bbd15383a9b7d51e7d7b0c621b5b973e605fd",
+          "uuid": "6e9bbd15-12-109386bed8c15775478c49329ec422a4d6b0884f",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/targeting",
+          "urlHash": "790aee4fe4326889819e13f8e80d35510af7bc3d",
+          "uuid": "790aee4f-07-b74ec2fa8523b39638c199a8f5b7b142aae7fe80",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/targeting",
+          "urlHash": "790aee4fe4326889819e13f8e80d35510af7bc3d",
+          "uuid": "790aee4f-10-4b3964a779b21b2f288a0ba88b90360583cb6a4e",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/targeting",
+          "urlHash": "790aee4fe4326889819e13f8e80d35510af7bc3d",
+          "uuid": "790aee4f-13-e88cc51ab95aa63d010d937bb0a55ae4ec9bbe8c",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types",
+          "urlHash": "8ac5be202abe4e0a3cef22f05af9cd147aa8df02",
+          "uuid": "8ac5be20-04-9c269693de4cb96adfa0409ff427293ab9cd68a8",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types",
+          "urlHash": "8ac5be202abe4e0a3cef22f05af9cd147aa8df02",
+          "uuid": "8ac5be20-06-097ebcc151df3807117faaaf900e1bf4384dd4f3",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types",
+          "urlHash": "8ac5be202abe4e0a3cef22f05af9cd147aa8df02",
+          "uuid": "8ac5be20-08-7d3a2af1e1bf2a499830b4b22ed07e0dbff5af9b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/tweet-composer",
+          "urlHash": "96ab8e4049f8c32d5c057397eb833d641b076aa2",
+          "uuid": "96ab8e40-21-0eb9652e301e950f5336129acd6f83036978cf14",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/video-views",
+          "urlHash": "a4719998d6ee114b7f8d2915126d753febd15fbc",
+          "uuid": "a4719998-06-1cf970354f769aca88d507d68dfdf033cff70d79",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/video-views",
+          "urlHash": "a4719998d6ee114b7f8d2915126d753febd15fbc",
+          "uuid": "a4719998-12-109386bed8c15775478c49329ec422a4d6b0884f",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/branded-notifications",
+          "urlHash": "ad7e4babdb2af12ad5e13e6f88d66f104960d5f7",
+          "uuid": "ad7e4bab-12-109386bed8c15775478c49329ec422a4d6b0884f",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-traffic",
+          "urlHash": "b122711a9f7a3890c8fd6771421fb31fac813d0a",
+          "uuid": "b122711a-12-e88cc51ab95aa63d010d937bb0a55ae4ec9bbe8c",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-traffic",
+          "urlHash": "b122711a9f7a3890c8fd6771421fb31fac813d0a",
+          "uuid": "b122711a-17-77630a2cb59995795272a4fe0e5bb91fb7b6c56a",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[10]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/app-reengagements",
+          "urlHash": "c8d58b251bf14f09be7c306d54832ae669a0e089",
+          "uuid": "c8d58b25-13-77630a2cb59995795272a4fe0e5bb91fb7b6c56a",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[10]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-conversions",
+          "urlHash": "d2d941a76d8ab884de55b54ee5f24ef2a25bd89e",
+          "uuid": "d2d941a7-15-51891273316f67f046836a8c9af7886031158c5d",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[11]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 16,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-traffic",
+          "urlHash": "b122711a9f7a3890c8fd6771421fb31fac813d0a",
+          "uuid": "b122711a-06-987a8218e43d56136f271389dfcdc0581bb4efb0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-traffic",
+          "urlHash": "b122711a9f7a3890c8fd6771421fb31fac813d0a",
+          "uuid": "b122711a-07-786b6fdefe567b82f53b6b1e0eb423572c5ba0f1",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 17,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/amplify-pre-roll",
+          "urlHash": "0e68abe26c479d81af03ae418344820ff152532f",
+          "uuid": "0e68abe2-01-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-creator",
+          "urlHash": "1119e3cdbc709438b8ee7d425700a7ec65df0ae5",
+          "uuid": "1119e3cd-01-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-creator",
+          "urlHash": "1119e3cdbc709438b8ee7d425700a7ec65df0ae5",
+          "uuid": "1119e3cd-21-03ac9e6f006d5714c6a465d9da2caa7119a4d70b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/engagements",
+          "urlHash": "4551c396c4f850838a52269f8cfd63eb41d40b60",
+          "uuid": "4551c396-01-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/app-installs",
+          "urlHash": "547dae3db227b599e4e7ace70c566240d01167f9",
+          "uuid": "547dae3d-01-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/reach",
+          "urlHash": "6e9bbd15383a9b7d51e7d7b0c621b5b973e605fd",
+          "uuid": "6e9bbd15-01-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/tweet-composer",
+          "urlHash": "96ab8e4049f8c32d5c057397eb833d641b076aa2",
+          "uuid": "96ab8e40-01-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/video-views",
+          "urlHash": "a4719998d6ee114b7f8d2915126d753febd15fbc",
+          "uuid": "a4719998-01-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/app-reengagements",
+          "urlHash": "c8d58b251bf14f09be7c306d54832ae669a0e089",
+          "uuid": "c8d58b25-01-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 18,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner",
+          "urlHash": "545dc26c9d657c1ef2a6a3dbfe098e753354241e",
+          "uuid": "545dc26c-06-5b67a0de9e1bcc92dccc4be499e8f430553c815a",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 19,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/amplify-pre-roll",
+          "urlHash": "0e68abe26c479d81af03ae418344820ff152532f",
+          "uuid": "0e68abe2-05-71d116fe18b017a7ff00f3f6a42c592658d5dd44",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/app-installs",
+          "urlHash": "547dae3db227b599e4e7ace70c566240d01167f9",
+          "uuid": "547dae3d-12-6dd1effeee3e10f541262b4e17ab83cd3e19ec7a",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[8]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/branded-notifications",
+          "urlHash": "ad7e4babdb2af12ad5e13e6f88d66f104960d5f7",
+          "uuid": "ad7e4bab-10-25e9910beb5b9546c70f945544f8e1f90e53689f",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[7]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-conversions",
+          "urlHash": "d2d941a76d8ab884de55b54ee5f24ef2a25bd89e",
+          "uuid": "d2d941a7-10-6dd1effeee3e10f541262b4e17ab83cd3e19ec7a",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[8]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 20,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/adaptly",
+          "urlHash": "0259b1daf9e7ac55511228ea025551e4de407a5f",
+          "uuid": "0259b1da-03-d5fc3d9486bbf512afdb4d6200259f86942c1a70",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/amobee",
+          "urlHash": "168af8313417995e160bb3f76cd02cd183b16d01",
+          "uuid": "168af831-03-d5fc3d9486bbf512afdb4d6200259f86942c1a70",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/wiseblue",
+          "urlHash": "3780e69aa957f809f1c055a1320875501aca6a3a",
+          "uuid": "3780e69a-03-d5fc3d9486bbf512afdb4d6200259f86942c1a70",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/social-database",
+          "urlHash": "f816ee0360c9a435ed4bea77b99e20d444ba0f44",
+          "uuid": "f816ee03-03-d5fc3d9486bbf512afdb4d6200259f86942c1a70",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 21,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/measurement",
+          "urlHash": "20729bcee31f621288c65f1aa492dd4d9bc1b808",
+          "uuid": "20729bce-09-17a8b296d154786c4989531e8167a6261ba00516",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[9]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/analytics",
+          "urlHash": "3ac800d770a87b5e3a69ed751730e0d1b2287b93",
+          "uuid": "3ac800d7-12-25e9910beb5b9546c70f945544f8e1f90e53689f",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[7]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/carousels",
+          "urlHash": "58eef99cbd58f6bfbc5d857e2ed0fbc8153b48b1",
+          "uuid": "58eef99c-08-6dd1effeee3e10f541262b4e17ab83cd3e19ec7a",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[8]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/targeting",
+          "urlHash": "790aee4fe4326889819e13f8e80d35510af7bc3d",
+          "uuid": "790aee4f-14-6dd1effeee3e10f541262b4e17ab83cd3e19ec7a",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[8]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/tweet-composer",
+          "urlHash": "96ab8e4049f8c32d5c057397eb833d641b076aa2",
+          "uuid": "96ab8e40-22-6dd1effeee3e10f541262b4e17ab83cd3e19ec7a",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[8]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/ads-best-practices",
+          "urlHash": "ab6f12dc9a89e9e225fb1369a0638b510482114a",
+          "uuid": "ab6f12dc-06-03ac9e6f006d5714c6a465d9da2caa7119a4d70b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/get-started-with-twitter-ads",
+          "urlHash": "e6f03a6c9def0580704294851f8bfe2ec9cfdfc5",
+          "uuid": "e6f03a6c-05-71d116fe18b017a7ff00f3f6a42c592658d5dd44",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 22,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/app-installs",
+          "urlHash": "547dae3db227b599e4e7ace70c566240d01167f9",
+          "uuid": "547dae3d-04-9dc371b0317b7e5707633052793d80a7181c2420",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 23,
+      "instances": [
+        {
+          "url": "https://business.x.com/en",
+          "urlHash": "4dc7c15e0b8feb63b4b5729463fbddaf78f72be7",
+          "uuid": "4dc7c15e-01-97e8caca0bd7ae255ef1e60baa7a860edbfa9276",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 24,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/formats",
+          "urlHash": "c17a0205ad86fae4f5bb316fe232ac1229510622",
+          "uuid": "c17a0205-04-e9351f88a9114760250e0fe41bdc90e3feb1596b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 25,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/adaptly",
+          "urlHash": "0259b1daf9e7ac55511228ea025551e4de407a5f",
+          "uuid": "0259b1da-01-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/amobee",
+          "urlHash": "168af8313417995e160bb3f76cd02cd183b16d01",
+          "uuid": "168af831-01-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/wiseblue",
+          "urlHash": "3780e69aa957f809f1c055a1320875501aca6a3a",
+          "uuid": "3780e69a-01-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-traffic",
+          "urlHash": "b122711a9f7a3890c8fd6771421fb31fac813d0a",
+          "uuid": "b122711a-01-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-conversions",
+          "urlHash": "d2d941a76d8ab884de55b54ee5f24ef2a25bd89e",
+          "uuid": "d2d941a7-01-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/social-database",
+          "urlHash": "f816ee0360c9a435ed4bea77b99e20d444ba0f44",
+          "uuid": "f816ee03-01-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 26,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising",
+          "urlHash": "ae0526ea7b15a248728019520d069ef9bb21042a",
+          "uuid": "ae0526ea-01-97e8caca0bd7ae255ef1e60baa7a860edbfa9276",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]/main[1]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising?ref=en-btc-help-troubleshooting-how-it-works-footer",
+          "urlHash": "d45416d928a70e28009854ecca52a76613596765",
+          "uuid": "d45416d9-01-97e8caca0bd7ae255ef1e60baa7a860edbfa9276",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 27,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/ads-best-practices",
+          "urlHash": "ab6f12dc9a89e9e225fb1369a0638b510482114a",
+          "uuid": "ab6f12dc-05-71d116fe18b017a7ff00f3f6a42c592658d5dd44",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 28,
+      "instances": [
+        {
+          "url": "https://business.x.com/en",
+          "urlHash": "4dc7c15e0b8feb63b4b5729463fbddaf78f72be7",
+          "uuid": "4dc7c15e-02-5217d198440712192f7c03f84d6a8fbc883ffcc5",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising",
+          "urlHash": "ae0526ea7b15a248728019520d069ef9bb21042a",
+          "uuid": "ae0526ea-02-5217d198440712192f7c03f84d6a8fbc883ffcc5",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising?ref=en-btc-help-troubleshooting-how-it-works-footer",
+          "urlHash": "d45416d928a70e28009854ecca52a76613596765",
+          "uuid": "d45416d9-02-5217d198440712192f7c03f84d6a8fbc883ffcc5",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]/footer[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 29,
+      "instances": [
+        {
+          "url": "https://business.x.com/en",
+          "urlHash": "4dc7c15e0b8feb63b4b5729463fbddaf78f72be7",
+          "uuid": "4dc7c15e-00-04eda277850add63ffcfd5d8b49fd259669239fc",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]/header[1]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising",
+          "urlHash": "ae0526ea7b15a248728019520d069ef9bb21042a",
+          "uuid": "ae0526ea-00-04eda277850add63ffcfd5d8b49fd259669239fc",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]/header[1]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising?ref=en-btc-help-troubleshooting-how-it-works-footer",
+          "urlHash": "d45416d928a70e28009854ecca52a76613596765",
+          "uuid": "d45416d9-00-04eda277850add63ffcfd5d8b49fd259669239fc",
+          "xpath": "/html[1]/body[1]/div[4]/div[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 30,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/adaptly",
+          "urlHash": "0259b1daf9e7ac55511228ea025551e4de407a5f",
+          "uuid": "0259b1da-02-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/amobee",
+          "urlHash": "168af8313417995e160bb3f76cd02cd183b16d01",
+          "uuid": "168af831-02-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/wiseblue",
+          "urlHash": "3780e69aa957f809f1c055a1320875501aca6a3a",
+          "uuid": "3780e69a-02-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/social-database",
+          "urlHash": "f816ee0360c9a435ed4bea77b99e20d444ba0f44",
+          "uuid": "f816ee03-02-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 31,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/carousels",
+          "urlHash": "58eef99cbd58f6bfbc5d857e2ed0fbc8153b48b1",
+          "uuid": "58eef99c-07-25e9910beb5b9546c70f945544f8e1f90e53689f",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[7]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 32,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner",
+          "urlHash": "545dc26c9d657c1ef2a6a3dbfe098e753354241e",
+          "uuid": "545dc26c-04-4a65408e0161ea8c3fb95750dbba9ac46032a62c",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 33,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/wiseblue",
+          "urlHash": "3780e69aa957f809f1c055a1320875501aca6a3a",
+          "uuid": "3780e69a-04-71d116fe18b017a7ff00f3f6a42c592658d5dd44",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 34,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/branded-notifications",
+          "urlHash": "ad7e4babdb2af12ad5e13e6f88d66f104960d5f7",
+          "uuid": "ad7e4bab-07-82de2d008a595688e4b740fcb67edc62c4aad9c4",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 35,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types",
+          "urlHash": "8ac5be202abe4e0a3cef22f05af9cd147aa8df02",
+          "uuid": "8ac5be20-01-bf6bc3422b133d22277cf37a21695689ccac15db",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 36,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/amplify-pre-roll",
+          "urlHash": "0e68abe26c479d81af03ae418344820ff152532f",
+          "uuid": "0e68abe2-03-d5fc3d9486bbf512afdb4d6200259f86942c1a70",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 37,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-traffic",
+          "urlHash": "b122711a9f7a3890c8fd6771421fb31fac813d0a",
+          "uuid": "b122711a-11-91ac168025ffbcc31ba1b4ea30488eee5036156d",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 38,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/app-installs",
+          "urlHash": "547dae3db227b599e4e7ace70c566240d01167f9",
+          "uuid": "547dae3d-06-097ebcc151df3807117faaaf900e1bf4384dd4f3",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 39,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/adaptly",
+          "urlHash": "0259b1daf9e7ac55511228ea025551e4de407a5f",
+          "uuid": "0259b1da-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/amplify-pre-roll",
+          "urlHash": "0e68abe26c479d81af03ae418344820ff152532f",
+          "uuid": "0e68abe2-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-creator",
+          "urlHash": "1119e3cdbc709438b8ee7d425700a7ec65df0ae5",
+          "uuid": "1119e3cd-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/amobee",
+          "urlHash": "168af8313417995e160bb3f76cd02cd183b16d01",
+          "uuid": "168af831-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/measurement",
+          "urlHash": "20729bcee31f621288c65f1aa492dd4d9bc1b808",
+          "uuid": "20729bce-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/wiseblue",
+          "urlHash": "3780e69aa957f809f1c055a1320875501aca6a3a",
+          "uuid": "3780e69a-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/analytics",
+          "urlHash": "3ac800d770a87b5e3a69ed751730e0d1b2287b93",
+          "uuid": "3ac800d7-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/engagements",
+          "urlHash": "4551c396c4f850838a52269f8cfd63eb41d40b60",
+          "uuid": "4551c396-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner",
+          "urlHash": "545dc26c9d657c1ef2a6a3dbfe098e753354241e",
+          "uuid": "545dc26c-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/app-installs",
+          "urlHash": "547dae3db227b599e4e7ace70c566240d01167f9",
+          "uuid": "547dae3d-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/carousels",
+          "urlHash": "58eef99cbd58f6bfbc5d857e2ed0fbc8153b48b1",
+          "uuid": "58eef99c-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/reach",
+          "urlHash": "6e9bbd15383a9b7d51e7d7b0c621b5b973e605fd",
+          "uuid": "6e9bbd15-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/targeting",
+          "urlHash": "790aee4fe4326889819e13f8e80d35510af7bc3d",
+          "uuid": "790aee4f-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types",
+          "urlHash": "8ac5be202abe4e0a3cef22f05af9cd147aa8df02",
+          "uuid": "8ac5be20-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/tweet-composer",
+          "urlHash": "96ab8e4049f8c32d5c057397eb833d641b076aa2",
+          "uuid": "96ab8e40-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/video-views",
+          "urlHash": "a4719998d6ee114b7f8d2915126d753febd15fbc",
+          "uuid": "a4719998-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/ads-best-practices",
+          "urlHash": "ab6f12dc9a89e9e225fb1369a0638b510482114a",
+          "uuid": "ab6f12dc-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/branded-notifications",
+          "urlHash": "ad7e4babdb2af12ad5e13e6f88d66f104960d5f7",
+          "uuid": "ad7e4bab-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-traffic",
+          "urlHash": "b122711a9f7a3890c8fd6771421fb31fac813d0a",
+          "uuid": "b122711a-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/formats",
+          "urlHash": "c17a0205ad86fae4f5bb316fe232ac1229510622",
+          "uuid": "c17a0205-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/app-reengagements",
+          "urlHash": "c8d58b251bf14f09be7c306d54832ae669a0e089",
+          "uuid": "c8d58b25-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-conversions",
+          "urlHash": "d2d941a76d8ab884de55b54ee5f24ef2a25bd89e",
+          "uuid": "d2d941a7-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/get-started-with-twitter-ads",
+          "urlHash": "e6f03a6c9def0580704294851f8bfe2ec9cfdfc5",
+          "uuid": "e6f03a6c-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/partners/find-a-partner/social-database",
+          "urlHash": "f816ee0360c9a435ed4bea77b99e20d444ba0f44",
+          "uuid": "f816ee03-00-52e6b905466250bb5884dcbfb7abbc9a31e6f4ef",
+          "xpath": "/html[1]/body[1]/div[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 40,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/ads-best-practices",
+          "urlHash": "ab6f12dc9a89e9e225fb1369a0638b510482114a",
+          "uuid": "ab6f12dc-04-31a136b00ee4d368075f69906d1d33fc1ab5c432",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 41,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/engagements",
+          "urlHash": "4551c396c4f850838a52269f8cfd63eb41d40b60",
+          "uuid": "4551c396-08-03ac9e6f006d5714c6a465d9da2caa7119a4d70b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/app-installs",
+          "urlHash": "547dae3db227b599e4e7ace70c566240d01167f9",
+          "uuid": "547dae3d-13-17a8b296d154786c4989531e8167a6261ba00516",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[9]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/reach",
+          "urlHash": "6e9bbd15383a9b7d51e7d7b0c621b5b973e605fd",
+          "uuid": "6e9bbd15-07-03ac9e6f006d5714c6a465d9da2caa7119a4d70b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/video-views",
+          "urlHash": "a4719998d6ee114b7f8d2915126d753febd15fbc",
+          "uuid": "a4719998-07-03ac9e6f006d5714c6a465d9da2caa7119a4d70b",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-traffic",
+          "urlHash": "b122711a9f7a3890c8fd6771421fb31fac813d0a",
+          "uuid": "b122711a-13-6dd1effeee3e10f541262b4e17ab83cd3e19ec7a",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[8]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/app-reengagements",
+          "urlHash": "c8d58b251bf14f09be7c306d54832ae669a0e089",
+          "uuid": "c8d58b25-10-6dd1effeee3e10f541262b4e17ab83cd3e19ec7a",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[8]"
+        },
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-conversions",
+          "urlHash": "d2d941a76d8ab884de55b54ee5f24ef2a25bd89e",
+          "uuid": "d2d941a7-11-17a8b296d154786c4989531e8167a6261ba00516",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[9]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 42,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/formats",
+          "urlHash": "c17a0205ad86fae4f5bb316fe232ac1229510622",
+          "uuid": "c17a0205-06-9b640270a4e83276bafab05b9422e14a4fa11a7e",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 43,
+      "instances": [
+        {
+          "url": "https://business.x.com/en/advertising/campaign-types/website-conversions",
+          "urlHash": "d2d941a76d8ab884de55b54ee5f24ef2a25bd89e",
+          "uuid": "d2d941a7-09-25e9910beb5b9546c70f945544f8e1f90e53689f",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[7]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/amplify-pre-roll",
+      "urlHash": "0e68abe26c479d81af03ae418344820ff152532f",
+      "uuid": "0e68abe2-07-0e7e174245c1006e0610ebb1ca28ea90384c749e",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-creator",
+      "urlHash": "1119e3cdbc709438b8ee7d425700a7ec65df0ae5",
+      "uuid": "1119e3cd-03-d5fc3d9486bbf512afdb4d6200259f86942c1a70",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-creator",
+      "urlHash": "1119e3cdbc709438b8ee7d425700a7ec65df0ae5",
+      "uuid": "1119e3cd-04-ff9844dda1f68959663b620d4c9b33b8ff3cb200",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-creator",
+      "urlHash": "1119e3cdbc709438b8ee7d425700a7ec65df0ae5",
+      "uuid": "1119e3cd-10-263509632dc55d50b0f74499035b20e2109299a4",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-creator",
+      "urlHash": "1119e3cdbc709438b8ee7d425700a7ec65df0ae5",
+      "uuid": "1119e3cd-11-cb74d896307aac1ac9383c3f4bc4436278888d2e",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-creator",
+      "urlHash": "1119e3cdbc709438b8ee7d425700a7ec65df0ae5",
+      "uuid": "1119e3cd-12-46dae0b250c96a4c75ed62a43958acf68aaeff9d",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[9]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-creator",
+      "urlHash": "1119e3cdbc709438b8ee7d425700a7ec65df0ae5",
+      "uuid": "1119e3cd-13-e9d5d1ab540816c264fd0d8e951163e75919146e",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[10]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-creator",
+      "urlHash": "1119e3cdbc709438b8ee7d425700a7ec65df0ae5",
+      "uuid": "1119e3cd-14-9162702b98440d743710da115ccb460f98389509",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[11]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-creator",
+      "urlHash": "1119e3cdbc709438b8ee7d425700a7ec65df0ae5",
+      "uuid": "1119e3cd-15-db23ffd033bbadf2fc1d69930e124cc78621729a",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[12]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-creator",
+      "urlHash": "1119e3cdbc709438b8ee7d425700a7ec65df0ae5",
+      "uuid": "1119e3cd-16-3d805a9f7b20def83ee9e74fe7fdf9a02662a25d",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[13]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-creator",
+      "urlHash": "1119e3cdbc709438b8ee7d425700a7ec65df0ae5",
+      "uuid": "1119e3cd-18-37d4845486de87c0afda0827630552320286c2eb",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[15]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-creator",
+      "urlHash": "1119e3cdbc709438b8ee7d425700a7ec65df0ae5",
+      "uuid": "1119e3cd-19-31b131d27cb1d2c8613f9708099dd6b79c1cc2a8",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/measurement",
+      "urlHash": "20729bcee31f621288c65f1aa492dd4d9bc1b808",
+      "uuid": "20729bce-01-bf6bc3422b133d22277cf37a21695689ccac15db",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/measurement",
+      "urlHash": "20729bcee31f621288c65f1aa492dd4d9bc1b808",
+      "uuid": "20729bce-03-d5fc3d9486bbf512afdb4d6200259f86942c1a70",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/partners/find-a-partner/wiseblue",
+      "urlHash": "3780e69aa957f809f1c055a1320875501aca6a3a",
+      "uuid": "3780e69a-05-e8089d85b8da23746487657b87313221ceedbeb4",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/partners/find-a-partner/wiseblue",
+      "urlHash": "3780e69aa957f809f1c055a1320875501aca6a3a",
+      "uuid": "3780e69a-06-1a568009d6c1dd37b4e8e6f53e0380d470651b42",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/analytics",
+      "urlHash": "3ac800d770a87b5e3a69ed751730e0d1b2287b93",
+      "uuid": "3ac800d7-01-bf6bc3422b133d22277cf37a21695689ccac15db",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/analytics",
+      "urlHash": "3ac800d770a87b5e3a69ed751730e0d1b2287b93",
+      "uuid": "3ac800d7-03-d5fc3d9486bbf512afdb4d6200259f86942c1a70",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/analytics",
+      "urlHash": "3ac800d770a87b5e3a69ed751730e0d1b2287b93",
+      "uuid": "3ac800d7-04-ff9844dda1f68959663b620d4c9b33b8ff3cb200",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/analytics",
+      "urlHash": "3ac800d770a87b5e3a69ed751730e0d1b2287b93",
+      "uuid": "3ac800d7-08-31b131d27cb1d2c8613f9708099dd6b79c1cc2a8",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/analytics",
+      "urlHash": "3ac800d770a87b5e3a69ed751730e0d1b2287b93",
+      "uuid": "3ac800d7-10-a16cd4c9cfd8419511c17e49347892b68237a449",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/engagements",
+      "urlHash": "4551c396c4f850838a52269f8cfd63eb41d40b60",
+      "uuid": "4551c396-03-d5fc3d9486bbf512afdb4d6200259f86942c1a70",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/engagements",
+      "urlHash": "4551c396c4f850838a52269f8cfd63eb41d40b60",
+      "uuid": "4551c396-05-31b131d27cb1d2c8613f9708099dd6b79c1cc2a8",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/engagements",
+      "urlHash": "4551c396c4f850838a52269f8cfd63eb41d40b60",
+      "uuid": "4551c396-09-b26bcdb8ce4f5a459e3e17d4b79d47b73aabaced",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/picture[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/engagements",
+      "urlHash": "4551c396c4f850838a52269f8cfd63eb41d40b60",
+      "uuid": "4551c396-10-96f5e963c656d8a3ecb03c801ecc9ca11f0ca5c0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]/div[1]/div[1]/div[1]/div[2]/div[1]/picture[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/engagements",
+      "urlHash": "4551c396c4f850838a52269f8cfd63eb41d40b60",
+      "uuid": "4551c396-12-f8c4e2cebd96f150d590ba6e5de10d73813ee88f",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/partners/find-a-partner",
+      "urlHash": "545dc26c9d657c1ef2a6a3dbfe098e753354241e",
+      "uuid": "545dc26c-01-bf6bc3422b133d22277cf37a21695689ccac15db",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/partners/find-a-partner",
+      "urlHash": "545dc26c9d657c1ef2a6a3dbfe098e753354241e",
+      "uuid": "545dc26c-02-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/partners/find-a-partner",
+      "urlHash": "545dc26c9d657c1ef2a6a3dbfe098e753354241e",
+      "uuid": "545dc26c-03-01c97805656223e8c46e174e06fe9c2d6cd17e23",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/p[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/partners/find-a-partner",
+      "urlHash": "545dc26c9d657c1ef2a6a3dbfe098e753354241e",
+      "uuid": "545dc26c-05-1f20a39e0add58c5499e9521d2bafb1f2b3eeede",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/p[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/app-installs",
+      "urlHash": "547dae3db227b599e4e7ace70c566240d01167f9",
+      "uuid": "547dae3d-03-0a1f0113c401c727bb8e877eea459dab34b07a5d",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/app-installs",
+      "urlHash": "547dae3db227b599e4e7ace70c566240d01167f9",
+      "uuid": "547dae3d-07-71d116fe18b017a7ff00f3f6a42c592658d5dd44",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/app-installs",
+      "urlHash": "547dae3db227b599e4e7ace70c566240d01167f9",
+      "uuid": "547dae3d-09-0e7e174245c1006e0610ebb1ca28ea90384c749e",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/app-installs",
+      "urlHash": "547dae3db227b599e4e7ace70c566240d01167f9",
+      "uuid": "547dae3d-15-d0d8f8fbdb1fe4716b337a51300ca70f91b97754",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[11]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/carousels",
+      "urlHash": "58eef99cbd58f6bfbc5d857e2ed0fbc8153b48b1",
+      "uuid": "58eef99c-01-bf6bc3422b133d22277cf37a21695689ccac15db",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/carousels",
+      "urlHash": "58eef99cbd58f6bfbc5d857e2ed0fbc8153b48b1",
+      "uuid": "58eef99c-04-31a136b00ee4d368075f69906d1d33fc1ab5c432",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/carousels",
+      "urlHash": "58eef99cbd58f6bfbc5d857e2ed0fbc8153b48b1",
+      "uuid": "58eef99c-05-71d116fe18b017a7ff00f3f6a42c592658d5dd44",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/reach",
+      "urlHash": "6e9bbd15383a9b7d51e7d7b0c621b5b973e605fd",
+      "uuid": "6e9bbd15-03-d5fc3d9486bbf512afdb4d6200259f86942c1a70",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/reach",
+      "urlHash": "6e9bbd15383a9b7d51e7d7b0c621b5b973e605fd",
+      "uuid": "6e9bbd15-05-31b131d27cb1d2c8613f9708099dd6b79c1cc2a8",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/reach",
+      "urlHash": "6e9bbd15383a9b7d51e7d7b0c621b5b973e605fd",
+      "uuid": "6e9bbd15-08-b26bcdb8ce4f5a459e3e17d4b79d47b73aabaced",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/picture[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/reach",
+      "urlHash": "6e9bbd15383a9b7d51e7d7b0c621b5b973e605fd",
+      "uuid": "6e9bbd15-09-96f5e963c656d8a3ecb03c801ecc9ca11f0ca5c0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]/div[1]/div[1]/div[1]/div[2]/div[1]/picture[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/reach",
+      "urlHash": "6e9bbd15383a9b7d51e7d7b0c621b5b973e605fd",
+      "uuid": "6e9bbd15-11-f8c4e2cebd96f150d590ba6e5de10d73813ee88f",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/targeting",
+      "urlHash": "790aee4fe4326889819e13f8e80d35510af7bc3d",
+      "uuid": "790aee4f-01-bf6bc3422b133d22277cf37a21695689ccac15db",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/targeting",
+      "urlHash": "790aee4fe4326889819e13f8e80d35510af7bc3d",
+      "uuid": "790aee4f-03-d5fc3d9486bbf512afdb4d6200259f86942c1a70",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/targeting",
+      "urlHash": "790aee4fe4326889819e13f8e80d35510af7bc3d",
+      "uuid": "790aee4f-04-31a136b00ee4d368075f69906d1d33fc1ab5c432",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/targeting",
+      "urlHash": "790aee4fe4326889819e13f8e80d35510af7bc3d",
+      "uuid": "790aee4f-05-1cf970354f769aca88d507d68dfdf033cff70d79",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/targeting",
+      "urlHash": "790aee4fe4326889819e13f8e80d35510af7bc3d",
+      "uuid": "790aee4f-06-70f8a6035412a4653b4d9011e130c3d6d2bc36fa",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/targeting",
+      "urlHash": "790aee4fe4326889819e13f8e80d35510af7bc3d",
+      "uuid": "790aee4f-08-614e309d5210c4f7b8f46527cd65c7258240533c",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/targeting",
+      "urlHash": "790aee4fe4326889819e13f8e80d35510af7bc3d",
+      "uuid": "790aee4f-09-c45ddf348125a15cc3c8f4edef4f122144ee7b46",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/targeting",
+      "urlHash": "790aee4fe4326889819e13f8e80d35510af7bc3d",
+      "uuid": "790aee4f-11-0eb9652e301e950f5336129acd6f83036978cf14",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/targeting",
+      "urlHash": "790aee4fe4326889819e13f8e80d35510af7bc3d",
+      "uuid": "790aee4f-12-91ac168025ffbcc31ba1b4ea30488eee5036156d",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types",
+      "urlHash": "8ac5be202abe4e0a3cef22f05af9cd147aa8df02",
+      "uuid": "8ac5be20-02-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types",
+      "urlHash": "8ac5be202abe4e0a3cef22f05af9cd147aa8df02",
+      "uuid": "8ac5be20-03-9dc371b0317b7e5707633052793d80a7181c2420",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types",
+      "urlHash": "8ac5be202abe4e0a3cef22f05af9cd147aa8df02",
+      "uuid": "8ac5be20-05-ff9844dda1f68959663b620d4c9b33b8ff3cb200",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types",
+      "urlHash": "8ac5be202abe4e0a3cef22f05af9cd147aa8df02",
+      "uuid": "8ac5be20-07-fcf57bc425bd1c4a540ebd9c54d685c64ba3a3ac",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types",
+      "urlHash": "8ac5be202abe4e0a3cef22f05af9cd147aa8df02",
+      "uuid": "8ac5be20-09-82de2d008a595688e4b740fcb67edc62c4aad9c4",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/tweet-composer",
+      "urlHash": "96ab8e4049f8c32d5c057397eb833d641b076aa2",
+      "uuid": "96ab8e40-03-d5fc3d9486bbf512afdb4d6200259f86942c1a70",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/tweet-composer",
+      "urlHash": "96ab8e4049f8c32d5c057397eb833d641b076aa2",
+      "uuid": "96ab8e40-04-ff9844dda1f68959663b620d4c9b33b8ff3cb200",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/tweet-composer",
+      "urlHash": "96ab8e4049f8c32d5c057397eb833d641b076aa2",
+      "uuid": "96ab8e40-06-31b131d27cb1d2c8613f9708099dd6b79c1cc2a8",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/tweet-composer",
+      "urlHash": "96ab8e4049f8c32d5c057397eb833d641b076aa2",
+      "uuid": "96ab8e40-07-1cf970354f769aca88d507d68dfdf033cff70d79",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/tweet-composer",
+      "urlHash": "96ab8e4049f8c32d5c057397eb833d641b076aa2",
+      "uuid": "96ab8e40-08-310634c63ac7318106e82b6cffb5e0246af4d145",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/tweet-composer",
+      "urlHash": "96ab8e4049f8c32d5c057397eb833d641b076aa2",
+      "uuid": "96ab8e40-09-4f0da61d95227616add18c745cb27398a02cf15b",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/tweet-composer",
+      "urlHash": "96ab8e4049f8c32d5c057397eb833d641b076aa2",
+      "uuid": "96ab8e40-10-d175d85127d7de6fe93e5610d05c4de5e6042f05",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/tweet-composer",
+      "urlHash": "96ab8e4049f8c32d5c057397eb833d641b076aa2",
+      "uuid": "96ab8e40-16-a16cd4c9cfd8419511c17e49347892b68237a449",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/tweet-composer",
+      "urlHash": "96ab8e4049f8c32d5c057397eb833d641b076aa2",
+      "uuid": "96ab8e40-17-614e309d5210c4f7b8f46527cd65c7258240533c",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/tweet-composer",
+      "urlHash": "96ab8e4049f8c32d5c057397eb833d641b076aa2",
+      "uuid": "96ab8e40-20-0e7e174245c1006e0610ebb1ca28ea90384c749e",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/video-views",
+      "urlHash": "a4719998d6ee114b7f8d2915126d753febd15fbc",
+      "uuid": "a4719998-03-d5fc3d9486bbf512afdb4d6200259f86942c1a70",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/video-views",
+      "urlHash": "a4719998d6ee114b7f8d2915126d753febd15fbc",
+      "uuid": "a4719998-05-31b131d27cb1d2c8613f9708099dd6b79c1cc2a8",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/video-views",
+      "urlHash": "a4719998d6ee114b7f8d2915126d753febd15fbc",
+      "uuid": "a4719998-08-b26bcdb8ce4f5a459e3e17d4b79d47b73aabaced",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/picture[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/video-views",
+      "urlHash": "a4719998d6ee114b7f8d2915126d753febd15fbc",
+      "uuid": "a4719998-09-96f5e963c656d8a3ecb03c801ecc9ca11f0ca5c0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]/div[1]/div[1]/div[1]/div[2]/div[1]/picture[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/video-views",
+      "urlHash": "a4719998d6ee114b7f8d2915126d753febd15fbc",
+      "uuid": "a4719998-11-f8c4e2cebd96f150d590ba6e5de10d73813ee88f",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/ads-best-practices",
+      "urlHash": "ab6f12dc9a89e9e225fb1369a0638b510482114a",
+      "uuid": "ab6f12dc-01-bf6bc3422b133d22277cf37a21695689ccac15db",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/ads-best-practices",
+      "urlHash": "ab6f12dc9a89e9e225fb1369a0638b510482114a",
+      "uuid": "ab6f12dc-03-d5fc3d9486bbf512afdb4d6200259f86942c1a70",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/branded-notifications",
+      "urlHash": "ad7e4babdb2af12ad5e13e6f88d66f104960d5f7",
+      "uuid": "ad7e4bab-01-bf6bc3422b133d22277cf37a21695689ccac15db",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/branded-notifications",
+      "urlHash": "ad7e4babdb2af12ad5e13e6f88d66f104960d5f7",
+      "uuid": "ad7e4bab-03-d5fc3d9486bbf512afdb4d6200259f86942c1a70",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/branded-notifications",
+      "urlHash": "ad7e4babdb2af12ad5e13e6f88d66f104960d5f7",
+      "uuid": "ad7e4bab-04-ff9844dda1f68959663b620d4c9b33b8ff3cb200",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/branded-notifications",
+      "urlHash": "ad7e4babdb2af12ad5e13e6f88d66f104960d5f7",
+      "uuid": "ad7e4bab-11-f8c4e2cebd96f150d590ba6e5de10d73813ee88f",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/website-traffic",
+      "urlHash": "b122711a9f7a3890c8fd6771421fb31fac813d0a",
+      "uuid": "b122711a-14-e64e9ff3c7d159764a60da273af70da3d10564df",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[8]/div[1]/div[1]/div[1]/div[2]/div[1]/picture[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/formats",
+      "urlHash": "c17a0205ad86fae4f5bb316fe232ac1229510622",
+      "uuid": "c17a0205-01-bf6bc3422b133d22277cf37a21695689ccac15db",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/formats",
+      "urlHash": "c17a0205ad86fae4f5bb316fe232ac1229510622",
+      "uuid": "c17a0205-03-d5fc3d9486bbf512afdb4d6200259f86942c1a70",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/formats",
+      "urlHash": "c17a0205ad86fae4f5bb316fe232ac1229510622",
+      "uuid": "c17a0205-05-5f59984623cfb3f02991265e1dcae4a9e53dbc1c",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/formats",
+      "urlHash": "c17a0205ad86fae4f5bb316fe232ac1229510622",
+      "uuid": "c17a0205-07-03ac9e6f006d5714c6a465d9da2caa7119a4d70b",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/app-reengagements",
+      "urlHash": "c8d58b251bf14f09be7c306d54832ae669a0e089",
+      "uuid": "c8d58b25-03-0a1f0113c401c727bb8e877eea459dab34b07a5d",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/app-reengagements",
+      "urlHash": "c8d58b251bf14f09be7c306d54832ae669a0e089",
+      "uuid": "c8d58b25-05-31a136b00ee4d368075f69906d1d33fc1ab5c432",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/app-reengagements",
+      "urlHash": "c8d58b251bf14f09be7c306d54832ae669a0e089",
+      "uuid": "c8d58b25-07-a16cd4c9cfd8419511c17e49347892b68237a449",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/app-reengagements",
+      "urlHash": "c8d58b251bf14f09be7c306d54832ae669a0e089",
+      "uuid": "c8d58b25-09-25e9910beb5b9546c70f945544f8e1f90e53689f",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[7]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/app-reengagements",
+      "urlHash": "c8d58b251bf14f09be7c306d54832ae669a0e089",
+      "uuid": "c8d58b25-12-83cd820f1b98b5019d4616c916691680861055e7",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[10]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/website-conversions",
+      "urlHash": "d2d941a76d8ab884de55b54ee5f24ef2a25bd89e",
+      "uuid": "d2d941a7-03-ff9844dda1f68959663b620d4c9b33b8ff3cb200",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/website-conversions",
+      "urlHash": "d2d941a76d8ab884de55b54ee5f24ef2a25bd89e",
+      "uuid": "d2d941a7-06-a16cd4c9cfd8419511c17e49347892b68237a449",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/website-conversions",
+      "urlHash": "d2d941a76d8ab884de55b54ee5f24ef2a25bd89e",
+      "uuid": "d2d941a7-07-614e309d5210c4f7b8f46527cd65c7258240533c",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/website-conversions",
+      "urlHash": "d2d941a76d8ab884de55b54ee5f24ef2a25bd89e",
+      "uuid": "d2d941a7-12-d8ee62f90db4c1e80011bdc4dfad8c605846530a",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[9]/div[1]/div[1]/div[1]/div[2]/div[1]/picture[1]"
+    }
+  ]
+}
