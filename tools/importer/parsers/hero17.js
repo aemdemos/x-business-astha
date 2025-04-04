@@ -1,50 +1,47 @@
+/* global WebImporter */
 export default function parse(element, { document }) {
-  // Extracting the background image URL dynamically
-  const pictureElement = element.querySelector('picture img');
-  const backgroundImageUrl = pictureElement ? pictureElement.src : '';
+  // Define the header row as specified
+  const headerRow = ['Hero'];
 
-  // Extracting the headline and eyebrow text dynamically
-  const eyebrowElement = element.querySelector('.b01__eyebrow');
-  const headlineElement = element.querySelector('.b01__headline');
+  // Extract relevant elements from the provided HTML
+  const backgroundImage = element.querySelector('picture img');
+  const title = element.querySelector('.b01__headline');
+  const subheading = element.querySelector('.b01__eyebrow');
 
-  const eyebrowText = eyebrowElement ? eyebrowElement.textContent.trim() : '';
-  const headlineText = headlineElement ? headlineElement.textContent.trim() : '';
+  // Initialize the content cell array
+  const contentCell = [];
 
-  // Creating table header dynamically with exact match "Hero"
-  const headerRow = [document.createElement('strong')];
-  headerRow[0].textContent = 'Hero';
-
-  const contentRowElements = [];
-
-  // Adding background image dynamically to content row if available
-  if (backgroundImageUrl) {
+  // Add background image to the content cell if it exists
+  if (backgroundImage) {
     const imgElement = document.createElement('img');
-    imgElement.src = backgroundImageUrl;
-    contentRowElements.push(imgElement);
+    imgElement.src = backgroundImage.src;
+    imgElement.alt = backgroundImage.alt || '';
+    contentCell.push(imgElement);
   }
 
-  // Adding headline dynamically as a heading element
-  if (headlineText) {
-    const headingElement = document.createElement('h1');
-    headingElement.textContent = headlineText;
-    contentRowElements.push(headingElement);
+  // Add title to the content cell if it exists
+  if (title) {
+    const titleElement = document.createElement('h1');
+    titleElement.textContent = title.textContent.trim();
+    contentCell.push(titleElement);
   }
 
-  // Adding eyebrow text dynamically
-  if (eyebrowText) {
-    const eyebrowParagraph = document.createElement('p');
-    eyebrowParagraph.textContent = eyebrowText;
-    contentRowElements.push(eyebrowParagraph);
+  // Add subheading to the content cell if it exists
+  if (subheading) {
+    const subheadingElement = document.createElement('p');
+    subheadingElement.textContent = subheading.textContent.trim();
+    contentCell.push(subheadingElement);
   }
 
-  // Creating the table dynamically
-  const cells = [
-    headerRow, // Matches the required "Hero" header row
-    [contentRowElements] // Content dynamically extracted
+  // Prepare the table structure
+  const tableCells = [
+    headerRow,  // Header row
+    [contentCell],  // Content row
   ];
 
-  const blockTable = WebImporter.DOMUtils.createTable(cells, document);
+  // Create the block table using the helper function
+  const block = WebImporter.DOMUtils.createTable(tableCells, document);
 
-  // Replacing the original element with the new block table
-  element.replaceWith(blockTable);
+  // Replace the original element with the new block table
+  element.replaceWith(block);
 }

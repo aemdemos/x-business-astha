@@ -9,7 +9,7 @@
  * OF ANY KIND, either express or implied. See the License for the specific language
  * governing permissions and limitations under the License.
  */
-/* global KeyboardEvent, WebImporter, window */
+/* global WebImporter */
 
 /**
  *  Cleanup unwanted attributes in element and children
@@ -105,10 +105,11 @@ export async function handleOnLoad({ document }) {
 }
 
 /**
- *  Pre transform rules
+ * Pre transform rules
  * @param {Element} root
  * @param {Document} document
  * @param {string} url
+ * @param {string} publishUrl
  * @param {string} originalURL
 */
 export function preTransformRules({
@@ -152,7 +153,7 @@ export function preTransformRules({
 }
 
 /**
- *  Post transform rules
+ * Post transform rules
  * @param {Element} root
  * @param {Document} document
  * @param {string} url
@@ -191,7 +192,7 @@ export function postTransformRules({
 }
 
 /**
- *  Generate document path
+ * Generate document path
  * @param {string} url
  * @returns {string}
 */

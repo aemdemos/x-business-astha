@@ -1,42 +1,33 @@
+/* global WebImporter */
 export default function parse(element, { document }) {
-  const headerRow = [document.createElement('strong')];
-  headerRow[0].textContent = 'Hero';
+    const headerRow = ['Hero'];
 
-  const contentRow = [];
+    // Safely extracting title
+    const titleElement = element.querySelector('.b02-rich-text p');
+    const title = document.createElement('h1');
+    if (titleElement) {
+        title.innerHTML = titleElement.innerHTML;
+    }
 
-  // Create a single cell to combine all content
-  const contentCell = document.createElement('div');
+    // Safely extracting button
+    const buttonElement = element.querySelector('.b03__button');
+    const buttonLink = document.createElement('a');
+    if (buttonElement) {
+        buttonLink.href = buttonElement.getAttribute('href') || '#';
+        buttonLink.textContent = buttonElement.textContent.trim();
+    }
 
-  // Extract the headline
-  const headlineElement = element.querySelector('.b02__rich-text p');
-  if (headlineElement) {
-    const heading = document.createElement('h1');
-    heading.textContent = headlineElement.textContent.trim();
-    contentCell.appendChild(heading);
-  } else {
-    console.warn('Headline element is missing!');
-  }
+    // Building content row
+    const contentRow = [];
+    if (title.innerHTML) {
+        const combinedContent = document.createElement('div');
+        combinedContent.appendChild(title);
+        if (buttonLink.textContent) combinedContent.appendChild(buttonLink);
+        contentRow.push(combinedContent);
+    }
 
-  // Extract the CTA
-  const ctaElement = element.querySelector('.b03__button');
-  if (ctaElement) {
-    const link = document.createElement('a');
-    link.href = ctaElement.href;
-    link.textContent = ctaElement.textContent.trim();
-    contentCell.appendChild(link);
-  } else {
-    console.warn('CTA element is missing!');
-  }
+    const cells = [headerRow, contentRow];
+    const table = WebImporter.DOMUtils.createTable(cells, document);
 
-  // Validate contentCell is not empty
-  if (!contentCell.hasChildNodes()) {
-    console.error('No content found to populate the table cell!');
-  }
-
-  contentRow.push(contentCell);
-
-  const cells = [headerRow, contentRow];
-
-  const blockTable = WebImporter.DOMUtils.createTable(cells, document);
-  element.replaceWith(blockTable);
+    element.replaceWith(table);
 }

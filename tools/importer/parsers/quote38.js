@@ -1,25 +1,21 @@
+/* global WebImporter */
 export default function parse(element, { document }) {
-  // Step 1: Dynamically create and set the header row
-  const blockName = document.createElement('strong');
-  blockName.textContent = 'Quote'; // Ensure the header matches the example
+  // Extract relevant content from the input element
+  const headerRow = ['Quote'];
+  const quoteContent = element.querySelector('.b02__rich-text');
 
-  // Step 2: Extract content from the element dynamically
-  const contentElement = element.querySelector('.b02__rich-text');
-  const paragraphs = contentElement ? [...contentElement.querySelectorAll('p')] : []; // Handle edge cases for missing content
+  // Ensure quoteContent exists before accessing its properties
+  const quoteText = quoteContent ? Array.from(quoteContent.querySelectorAll('p')).map(p => p.outerHTML).join('') : '';
 
-  // Step 3: Combine the extracted paragraphs into a single container
-  const quoteContent = document.createElement('div');
-  paragraphs.forEach(p => quoteContent.appendChild(p.cloneNode(true)));
-
-  // Step 4: Construct the table structure
+  // Create table structure based on extracted content
   const cells = [
-    [blockName], // Header row
-    [quoteContent] // Content row
+    headerRow,
+    [quoteText] // Content row
   ];
 
-  // Step 5: Use the helper function to create the table
-  const blockTable = WebImporter.DOMUtils.createTable(cells, document);
+  // Use WebImporter.DOMUtils.createTable to create the block table
+  const block = WebImporter.DOMUtils.createTable(cells, document);
 
-  // Step 6: Replace the original element with the new structured block
-  element.replaceWith(blockTable);
+  // Replace the original element with the new block table
+  element.replaceWith(block);
 }
