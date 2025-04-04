@@ -1,47 +1,60 @@
+/* global WebImporter */
 export default function parse(element, { document }) {
-  // Create the header row dynamically
-  const blockHeader = [document.createElement('strong')];
-  blockHeader[0].textContent = 'Cards';
+  const cards = [];
 
-  // Generate rows by iterating over each partner element
-  const rows = Array.from(element.querySelectorAll('.sp05__partner')).map((partnerElement) => {
-    // Extract image dynamically
-    const imgElement = partnerElement.querySelector('.sp07__media img');
-    const img = document.createElement('img');
-    img.src = imgElement ? imgElement.getAttribute('src') : '';
-    img.alt = imgElement ? imgElement.getAttribute('alt') : '';
+  // Add header row
+  const headerRow = ['Cards'];
+  cards.push(headerRow);
 
-    // Extract title dynamically
-    const titleElement = partnerElement.querySelector('.sp07__headline');
-    const title = document.createElement('strong');
-    title.textContent = titleElement ? titleElement.textContent : '';
+  // Process all partner cards
+  const partnerElements = element.querySelectorAll('.sp05__partner');
+  partnerElements.forEach(partner => {
+    const cardData = [];
 
-    // Extract description dynamically
-    const descriptionElement = partnerElement.querySelector('.sp07__copy p');
-    const description = document.createElement('p');
-    description.textContent = descriptionElement ? descriptionElement.textContent : '';
-
-    // Extract link dynamically and fix newlines issue
-    const linkElement = partnerElement.querySelector('.sp07__cta-copy a');
-    const link = document.createElement('a');
-    if (linkElement) {
-      link.href = linkElement.href;
-      link.textContent = linkElement.textContent.trim(); // Remove extra newlines or spaces
+    // Extract image
+    const imageElement = partner.querySelector('.sp07__media-image');
+    if (imageElement) {
+      const image = document.createElement('img');
+      image.src = imageElement.src;
+      image.alt = imageElement.alt || ''; // Handle missing alt attribute
+      image.title = imageElement.title || ''; // Handle missing title attribute
+      cardData.push(image);
     }
 
-    // Combine title, description, and link into text cell
-    const textCell = [title, description, linkElement ? link : ''];
+    // Extract text content
+    const textCellContent = [];
 
-    // Return the row with image and text cell
-    return [img, textCell];
+    // Extract headline
+    const headlineElement = partner.querySelector('.sp07__headline');
+    if (headlineElement) {
+      const headline = document.createElement('h3');
+      headline.textContent = headlineElement.textContent.trim();
+      textCellContent.push(headline);
+    }
+
+    // Extract description
+    const descriptionElement = partner.querySelector('.sp07__copy > p');
+    if (descriptionElement) {
+      const description = document.createElement('p');
+      description.textContent = descriptionElement.textContent.trim();
+      textCellContent.push(description);
+    }
+
+    // Extract CTA
+    const ctaElement = partner.querySelector('.sp07__cta-copy a');
+    if (ctaElement) {
+      const ctaLink = document.createElement('a');
+      ctaLink.href = ctaElement.href;
+      ctaLink.textContent = ctaElement.textContent.trim();
+      textCellContent.push(ctaLink);
+    }
+
+    cardData.push(textCellContent);
+
+    // Add card to table
+    cards.push(cardData);
   });
 
-  // Combine header and rows into table structure
-  const tableData = [blockHeader, ...rows];
-
-  // Create the block table using createTable function
-  const blockTable = WebImporter.DOMUtils.createTable(tableData, document);
-
-  // Replace original element with the block table
-  element.replaceWith(blockTable);
+  const block = WebImporter.DOMUtils.createTable(cards, document);
+  element.replaceWith(block);
 }

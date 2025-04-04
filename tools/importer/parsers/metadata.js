@@ -23,10 +23,8 @@ function isDate(str) {
  * @param {HTMLElement} element The root query element.
  * @param {Object} props Additional parse function props.
  */
-export default function parse(element, props) {
-  const { document } = props;
-  const baseMetadata = WebImporter.Blocks.getMetadata(document) || {};
-  const meta = { ...baseMetadata };
+export default function parse(element, { document }) {
+  const meta = WebImporter.Blocks.getMetadata(document) || {};
   Object.entries(meta).forEach(([key, value]) => {
     // use first image
     if (key === 'Image') {
@@ -39,5 +37,10 @@ export default function parse(element, props) {
       meta[key] = new Date(value).toISOString().slice(0, 10);
     }
   });
-  return meta;
+  // create the block
+  const block = WebImporter.Blocks.createBlock(document, {
+    name: 'Metadata',
+    cells: meta,
+  });
+  element.append(block);
 }

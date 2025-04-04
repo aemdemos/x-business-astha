@@ -1,33 +1,40 @@
+/* global WebImporter */
 export default function parse(element, { document }) {
-  // Extract the background image
-  const backgroundImageElement = element.querySelector('img.c01__background-img');
-  const backgroundImageUrl = backgroundImageElement ? backgroundImageElement.src : '';
+  // Extract background image
+  const imgElement = element.querySelector('img.c01__background-img');
+  const backgroundImage = imgElement ? imgElement.getAttribute('src') : '';
 
-  // Extract the headline (title)
+  // Extract headline
   const headlineElement = element.querySelector('h1.c01__headline');
   const headlineText = headlineElement ? headlineElement.textContent.trim() : '';
 
-  // Create an <h1> element for the title
-  const title = document.createElement('h1');
-  title.textContent = headlineText;
+  // Create content for the table
+  const headerRow = ['Hero'];
+  const contentRow = [];
 
-  // Create an <img> element for the background image
-  const backgroundImage = document.createElement('img');
-  backgroundImage.src = backgroundImageUrl;
+  const combinedContent = document.createElement('div');
 
-  // Create the header cell wrapped in <strong>
-  const headerCell = document.createElement('strong');
-  headerCell.textContent = 'Hero';
+  if (backgroundImage) {
+    const imgTag = document.createElement('img');
+    imgTag.setAttribute('src', backgroundImage);
+    combinedContent.appendChild(imgTag);
+  }
 
-  // Create the table structure
+  if (headlineText) {
+    const headingTag = document.createElement('h1');
+    headingTag.textContent = headlineText;
+    combinedContent.appendChild(headingTag);
+  }
+
+  contentRow.push(combinedContent);
+
   const cells = [
-    [headerCell], // Header row wrapped in <strong>
-    [[backgroundImage, title]], // Content row with the background image and title
+    headerRow,
+    contentRow
   ];
 
-  // Create the block table using WebImporter.DOMUtils.createTable
   const blockTable = WebImporter.DOMUtils.createTable(cells, document);
 
-  // Replace the original element with the new block table
+  // Replace original element with the new table
   element.replaceWith(blockTable);
 }

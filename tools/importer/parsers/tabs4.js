@@ -1,34 +1,28 @@
+/* global WebImporter */
 export default function parse(element, { document }) {
-  // Critical review applied
+    const headerRow = ['<strong>Tabs</strong>'];
 
-  // Create header row matching the example exactly
-  const headerCell = document.createElement('strong');
-  headerCell.textContent = 'Tabs';
-  const headerRow = [headerCell];
+    // Extract relevant paragraphs and links
+    const paragraphs = Array.from(element.querySelectorAll('p'));
 
-  // Dynamically extract paragraph content from the given element
-  const paragraphs = [...element.querySelectorAll('p')];
+    // Handle edge cases for missing paragraphs
+    const tabOneContent = paragraphs[0] ? paragraphs[0] : document.createElement('p');
+    const tabTwoContent = paragraphs[1] ? paragraphs[1] : document.createElement('p');
 
-  // Handle edge case: no paragraphs found
-  if (paragraphs.length === 0) {
-    console.error('No paragraphs found in the provided element.');
-    return;
-  }
+    // Prepare tab content
+    const tabOne = document.createElement('div');
+    tabOne.appendChild(tabOneContent);
 
-  // Map paragraph elements into table rows dynamically
-  const rows = paragraphs.map((p, index) => {
-    const tabLabel = document.createElement('strong');
-    tabLabel.textContent = `Tab ${index + 1}`;
+    const tabTwo = document.createElement('div');
+    tabTwo.appendChild(tabTwoContent);
 
-    return [tabLabel, p];
-  });
+    const cells = [
+        headerRow,
+        ['Tab One', tabOne],
+        ['Tab Two', tabTwo],
+    ];
 
-  // Combine header and rows into table cells
-  const cells = [headerRow, ...rows];
+    const block = WebImporter.DOMUtils.createTable(cells, document);
 
-  // Create block using createTable API
-  const block = WebImporter.DOMUtils.createTable(cells, document);
-
-  // Replace the original element with the newly created block table
-  element.replaceWith(block);
+    element.replaceWith(block);
 }

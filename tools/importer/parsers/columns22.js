@@ -1,30 +1,29 @@
+/* global WebImporter */
 export default function parse(element, { document }) {
-  const slides = element.querySelectorAll('.ct06__slide');
-  const rows = [];
+  const headerRow = ['Columns'];
 
-  // Header row
-  const headerRow = [document.createElement('strong')];
-  headerRow[0].textContent = 'Columns';
-  rows.push(headerRow);
+  // Extract slide contents dynamically
+  const slides = element.querySelectorAll('.ct06__slide-content .b04__img');
 
-  slides.forEach(slide => {
-    const imgElement = slide.querySelector('picture img');
-    if (imgElement) {
-      const img = document.createElement('img');
-      img.src = imgElement.dataset.src || imgElement.src;
-      img.alt = imgElement.alt;
-      rows.push([img]);
+  const rows = Array.from(slides).map((img) => {
+    const imageElement = document.createElement('img');
+    const dataSrc = img.getAttribute('data-src');
+    const altText = img.getAttribute('alt');
+
+    if (dataSrc) {
+      imageElement.src = dataSrc;
+    } else {
+      console.warn('Image data-src missing for slide:', img);
     }
+
+    imageElement.alt = altText || '';
+    return [imageElement];
   });
 
-  // Handling edge cases: Ensure rows are properly populated
-  if (rows.length === 1) {
-    // No content extracted; add a placeholder row
-    const placeholderRow = [document.createElement('span')];
-    placeholderRow[0].textContent = 'No content available';
-    rows.push(placeholderRow);
-  }
+  // Combine header and rows
+  const tableData = [headerRow, ...rows];
 
-  const block = WebImporter.DOMUtils.createTable(rows, document);
-  element.replaceWith(block);
+  const blockTable = WebImporter.DOMUtils.createTable(tableData, document);
+
+  element.replaceWith(blockTable);
 }

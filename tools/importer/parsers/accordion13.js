@@ -1,24 +1,22 @@
+/* global WebImporter */
 export default function parse(element, { document }) {
-  const title = element.querySelector('.ct05__headline h3')?.textContent.trim();
-  const contentContainer = element.querySelector('.ct05__content_inner');
+  // Extract the title from the button
+  const titleElement = element.querySelector('.ct05__headline h3');
+  const title = titleElement ? titleElement.textContent.trim() : '';
 
-  const rows = [];
+  // Extract the content from the inner div
+  const contentElement = element.querySelector('.ct05__content_inner');
+  const content = contentElement ? contentElement.cloneNode(true) : document.createElement('div');
 
-  // Header row
-  const headerCell = document.createElement('strong');
-  headerCell.textContent = 'Accordion';
-  const headerRow = [headerCell];
-  rows.push(headerRow);
+  // Prepare the table data
+  const tableData = [
+    ['Accordion'], // Header row indicating block type
+    [title, content] // First accordion item
+  ];
 
-  // Accordion item row
-  const titleCell = document.createElement('div');
-  titleCell.textContent = title;
+  // Create the table block
+  const blockTable = WebImporter.DOMUtils.createTable(tableData, document);
 
-  const contentCell = document.createElement('div');
-  contentCell.append(...contentContainer.childNodes);
-
-  rows.push([titleCell, contentCell]);
-
-  const blockTable = WebImporter.DOMUtils.createTable(rows, document);
+  // Replace the original element with the new block table
   element.replaceWith(blockTable);
 }

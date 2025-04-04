@@ -1,34 +1,44 @@
+/* global WebImporter */
 export default function parse(element, { document }) {
-  // Extract and create the table header
-  const headerRow = [document.createElement('strong')];
-  headerRow[0].textContent = 'Columns';
+  // Safeguard: Ensure the input element exists
+  if (!element || !document) {
+    return;
+  }
 
-  // Extract content from the first column (text content)
-  const headlineElement = element.querySelector('h2.b01__headline');
-  const headline = headlineElement ? headlineElement.cloneNode(true) : document.createTextNode('');
+  // Extract header and text content from the first column
+  const firstColumn = element.querySelector('.ct01__column:nth-child(1)');
+  let headline = '';
+  let paragraphs = [];
 
-  const richTextElement = element.querySelector('div.b02__rich-text');
-  const richText = richTextElement ? richTextElement.cloneNode(true) : document.createTextNode('');
+  if (firstColumn) {
+    headline = firstColumn.querySelector('h2')?.textContent.trim() || '';
+    paragraphs = Array.from(firstColumn.querySelectorAll('p')).map(p => p.cloneNode(true));
+  }
 
-  const column1 = document.createElement('div');
-  column1.append(headline, richText);
+  // Extract image from the second column
+  const secondColumn = element.querySelector('.ct01__column:nth-child(2)');
+  let img = null;
 
-  // Extract content from the second column (image)
-  const imageElement = element.querySelector('img.b06__image');
-  const image = imageElement ? imageElement.cloneNode(true) : document.createTextNode('');
+  if (secondColumn) {
+    img = secondColumn.querySelector('img')?.cloneNode(true);
+  }
 
-  const column2 = document.createElement('div');
-  column2.append(image);
-
-  // Create the table rows and cells
-  const cells = [
-    headerRow,
-    [column1, column2],
+  // Ensure the table header matches the specified block type
+  const tableCells = [
+    ['Columns'], // Header row (matches the example header exactly)
+    [
+      headline ? document.createTextNode(headline) : '',
+      img || '' // Ensure we handle cases where the image is missing
+    ],
+    [
+      paragraphs.length ? paragraphs : '',
+      '' // Keep empty cells as empty strings if no content exists
+    ]
   ];
 
-  // Create the block table
-  const block = WebImporter.DOMUtils.createTable(cells, document);
+  // Create the block table using WebImporter.DOMUtils.createTable
+  const blockTable = WebImporter.DOMUtils.createTable(tableCells, document);
 
-  // Replace the original element with the new block table
-  element.replaceWith(block);
+  // Replace the original element with the generated block table
+  element.replaceWith(blockTable);
 }
