@@ -1,114 +1,110 @@
 {
-  "originUrl": "https://business.x.com",
-  "lastCrawled": "https://business.x.com/",
+  "originUrl": "https://sparkhealth.nz",
+  "lastCrawled": "https://sparkhealth.nz/",
   "urls": [
     {
-      "url": "https://business.x.com/en",
+      "url": "https://sparkhealth.nz/",
       "source": "CRAWL"
     },
     {
-      "url": "https://business.x.com/en/advertising",
+      "url": "https://sparkhealth.nz/blog/",
       "source": "CRAWL"
     },
     {
-      "url": "https://business.x.com/en/advertising?ref=en-btc-help-troubleshooting-how-it-works-footer",
+      "url": "https://sparkhealth.nz/blog/a-complete-overhaul-realising-the-full-potential-of-ai-in-healthcare/",
       "source": "CRAWL"
     },
     {
-      "url": "https://business.x.com/en/advertising/ads-best-practices",
+      "url": "https://sparkhealth.nz/blog/ai-and-co-design-making-healthcare-tech-accessible-for-older-new-zealanders/",
       "source": "CRAWL"
     },
     {
-      "url": "https://business.x.com/en/advertising/analytics",
+      "url": "https://sparkhealth.nz/blog/better-healthcare-collaboration-with-end-to-end-meeting-room-solutions/",
       "source": "CRAWL"
     },
     {
-      "url": "https://business.x.com/en/advertising/branded-notifications",
+      "url": "https://sparkhealth.nz/blog/category/insights/",
       "source": "CRAWL"
     },
     {
-      "url": "https://business.x.com/en/advertising/campaign-creator",
+      "url": "https://sparkhealth.nz/blog/category/news-media/",
       "source": "CRAWL"
     },
     {
-      "url": "https://business.x.com/en/advertising/campaign-types",
+      "url": "https://sparkhealth.nz/blog/collective-impact-improving-healthcare-through-collaboration-and-shared-values/",
       "source": "CRAWL"
     },
     {
-      "url": "https://business.x.com/en/advertising/campaign-types/amplify-pre-roll",
+      "url": "https://sparkhealth.nz/blog/digital-tools-to-enable-a-better-primary-care-sector/",
       "source": "CRAWL"
     },
     {
-      "url": "https://business.x.com/en/advertising/campaign-types/app-installs",
+      "url": "https://sparkhealth.nz/blog/is-your-technology-helping-or-hindering-your-healthcare-delivery/",
       "source": "CRAWL"
     },
     {
-      "url": "https://business.x.com/en/advertising/campaign-types/app-reengagements",
+      "url": "https://sparkhealth.nz/blog/living-well-at-home-in-later-life/",
       "source": "CRAWL"
     },
     {
-      "url": "https://business.x.com/en/advertising/campaign-types/engagements",
+      "url": "https://sparkhealth.nz/blog/retraining-our-health-sector-from-the-outside-in/",
       "source": "CRAWL"
     },
     {
-      "url": "https://business.x.com/en/advertising/campaign-types/reach",
+      "url": "https://sparkhealth.nz/blog/satellite-internet-improving-healthcare-delivery-in-rural-new-zealand/",
       "source": "CRAWL"
     },
     {
-      "url": "https://business.x.com/en/advertising/campaign-types/video-views",
+      "url": "https://sparkhealth.nz/blog/the-power-of-data/",
       "source": "CRAWL"
     },
     {
-      "url": "https://business.x.com/en/advertising/campaign-types/website-conversions",
+      "url": "https://sparkhealth.nz/contact/",
       "source": "CRAWL"
     },
     {
-      "url": "https://business.x.com/en/advertising/campaign-types/website-traffic",
+      "url": "https://sparkhealth.nz/legal/",
       "source": "CRAWL"
     },
     {
-      "url": "https://business.x.com/en/advertising/carousels",
+      "url": "https://sparkhealth.nz/legal/privacy-policy/",
       "source": "CRAWL"
     },
     {
-      "url": "https://business.x.com/en/advertising/formats",
+      "url": "https://sparkhealth.nz/our-story/",
       "source": "CRAWL"
     },
     {
-      "url": "https://business.x.com/en/advertising/get-started-with-twitter-ads",
+      "url": "https://sparkhealth.nz/solutions/",
       "source": "CRAWL"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {}
+  },
+  "extractionErrors": [
+    {
+      "url": "https://sparkhealth.nz/assets/themes/sparkhealth-theme/_styles/fonts/AvenirNext-DemiBold.woff2",
+      "status": "content type is not text/html"
     },
     {
-      "url": "https://business.x.com/en/advertising/measurement",
-      "source": "CRAWL"
+      "url": "https://sparkhealth.nz/assets/themes/sparkhealth-theme/_styles/fonts/AvenirNext-Regular.woff2",
+      "status": "content type is not text/html"
     },
     {
-      "url": "https://business.x.com/en/advertising/partners/find-a-partner",
-      "source": "CRAWL"
+      "url": "https://sparkhealth.nz/assets/themes/sparkhealth-theme/_styles/fonts/AvenirNext-Medium.woff2",
+      "status": "content type is not text/html"
     },
     {
-      "url": "https://business.x.com/en/advertising/partners/find-a-partner/adaptly",
-      "source": "CRAWL"
-    },
-    {
-      "url": "https://business.x.com/en/advertising/partners/find-a-partner/amobee",
-      "source": "CRAWL"
-    },
-    {
-      "url": "https://business.x.com/en/advertising/partners/find-a-partner/social-database",
-      "source": "CRAWL"
-    },
-    {
-      "url": "https://business.x.com/en/advertising/partners/find-a-partner/wiseblue",
-      "source": "CRAWL"
-    },
-    {
-      "url": "https://business.x.com/en/advertising/targeting",
-      "source": "CRAWL"
-    },
-    {
-      "url": "https://business.x.com/en/advertising/tweet-composer",
-      "source": "CRAWL"
+      "url": "https://sparkhealth.nz/assets/themes/sparkhealth-theme/_styles/fonts/b8e906a1-f5e8-4bf1-8e80-82c646ca4d5f.woff",
+      "status": "content type is not text/html"
     }
   ]
 }
